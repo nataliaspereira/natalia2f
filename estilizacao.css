@@ -14,3 +14,11 @@ color: black;
 
 
 }
+
+.primeira-parte{
+
+    background-image: linear-gradient(rgb(167, 168, 192), #e94ee1);
+    height: 500px;
+    color: white;
+    padding-top: 100px;
+}
