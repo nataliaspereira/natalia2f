@@ -4,21 +4,31 @@
  }
 
 .cabecalho{
-background-color: rgb(167, 168, 192);
+
+background-color: #424e61;
 display:flex;
 justify-content: space-around;
 align-items: center;
+color: white;
+padding: 24px 0;
 }
-.lista-cabecalho{
-color: black;
 
-
-}
 
 .primeira-parte{
 
-    background-image: linear-gradient(rgb(167, 168, 192), #e94ee1);
+    background-image: linear-gradient(#424e61, #4ebfe9);
     height: 500px;
     color: white;
     padding-top: 100px;
 }
+
+.item-lista-cabecalho{ 
+    display: inline-block;
+    padding: 0 12px;
+    font-size: 23px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+ .foto-estudante{
+     width: 35%;
+ }
