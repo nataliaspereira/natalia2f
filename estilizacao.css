@@ -59,5 +59,17 @@ padding: 24px 0;
 
  .icone{
  width: 30px;
+padding: 4px 8px;
 
  }
+
+
+.estudante-geral{
+text-align: center;
+
+}
+.estudante-todos{
+  display: grid;
+ grid-template-columns: 20% 20% 20% 20% 20%;
+}
+
