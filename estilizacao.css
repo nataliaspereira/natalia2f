@@ -72,4 +72,22 @@ text-align: center;
   display: grid;
  grid-template-columns: 20% 20% 20% 20% 20%;
 }
+.rodape{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logo-rodape{
+  width: 10%;
+}
+a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
 
+
+a:hover{
+    color: rgb(0, 0, 0);;
+
+}
